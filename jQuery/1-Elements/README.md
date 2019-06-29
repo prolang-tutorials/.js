@@ -9,7 +9,7 @@ $(document);
 ```
 This immediately retreives the document so you can use it as a jQuery object. The same thing goes for the body of the document:
 ```js
-$(body);
+$(document.body);
 ```
 # Element by ID
 Now for something slightly harder. If you want to retreive an element by ID, rather than use getElementById as used in vanilla JS you would use a # and the element id as shown here:
