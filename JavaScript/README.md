@@ -1,6 +1,6 @@
-# JavaScript
+# Welcome to JavaScript
 
-## Welcome to JavaScript
+
 
 ## Contributors
 

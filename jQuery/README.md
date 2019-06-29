@@ -1,6 +1,4 @@
-# jQuery
-
-## Welcome to jQuery
+# Welcome to jQuery
 
 ## Contributors
 
