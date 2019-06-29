@@ -1,6 +1,6 @@
 # Welcome to jQuery
 
-Template to use [here](./template/)
+Template to use [here](./Template/)
 
 ## Lessons
  - [Elements](./1-Elements)
