@@ -1,5 +1,5 @@
 
-## Ajax
+# Ajax
 
 Ajax stands for Asynchronous Javascript And Xml. Ajax is just a means of loading data from the server to the web browser without reloading the whole page.
 Ajax isn't something new in web development. It is basically just creating a new XMLHttpRequest object to send and receive information to and from a web server asynchronously, in the background!
