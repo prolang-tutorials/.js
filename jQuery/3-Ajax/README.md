@@ -28,6 +28,7 @@ Pass some data to the server:
 ```js
 $.ajax({
   method:"GET", // can be lowercase too
+  url: "/test",
   data: {
     some_dumb_info: "this_is_the_info"
   }
