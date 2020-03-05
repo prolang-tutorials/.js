@@ -33,5 +33,12 @@ $.ajax({
   }
 }).done(function (response){
   console.log(response)
-})
+});
 ```
+
+Here, the _data_ object is the payload that will be delivered to the server as _request body_.
+
+Note: The `method` parameter is the type of Http request that you would want to perform.
+It can be `get` , `post`, `put` et cetera!
+
+So now that you know how to send data and get response from the server, go ahead and try out making some real-world projects with this :)
